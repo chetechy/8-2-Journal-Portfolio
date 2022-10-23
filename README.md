@@ -1,4 +1,4 @@
-# 8-2-Journal-Portfolio-Submission
+# 8-2-Journal-Read Me
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 The Gaming Room’s current game is Draw It or Lose It, available only for Android devices. The company is interested in developing a web-based version of this game that can run on a variety of platforms. Mac, Linux, Windows, and mobile devices will need to be set up as development environments. In this project, a client-server architecture will be used. It is important to note that only one game can be played at a time. Singletons will be used to prevent multiple games from existing in memory simultaneously. Several teams can play, and teams can have many players, but team and game names have to be unique.
